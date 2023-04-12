@@ -1,6 +1,6 @@
 /**
  * File: 3d.h
- * Author: Benjamin Dicken
+ * Author: Sadiba Nusrat Nur
  * Course: CS 352 at the UofA
  * Description:
  * A C library for creating 3D shapes and scenes.
